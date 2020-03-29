@@ -1,15 +1,6 @@
 const assert = require('assert');
+const { toPairs } = require('@jonkemp/package-utils');
 const fromPairs = require('./');
-
-const toPairs = (obj) => {
-	const keys = Object.keys(obj);
-	const pairs = [];
-
-	for (const key of keys) {
-		pairs.push([key, obj[key]]);
-	}
-	return pairs;
-};
 
 describe('fromPairs', () => {
 	it('should convert two arrays into an object', () => {
