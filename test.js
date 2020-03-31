@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { toPairs } = require('@jonkemp/package-utils');
+const toPairs = require('to-pairs');
 const fromPairs = require('./');
 
 describe('fromPairs', () => {
