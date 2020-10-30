@@ -1,6 +1,6 @@
 {
 	"name": "from-pairs",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Convert arrays into objects.",
 	"main": "index.js",
 	"scripts": {
