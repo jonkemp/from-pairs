@@ -1,4 +1,4 @@
-# from-pairs [![Build Status](https://travis-ci.com/jonkemp/from-pairs.svg?branch=master)](https://travis-ci.com/jonkemp/from-pairs)
+# from-pairs ![Build Status](https://github.com/jonkemp/from-pairs/actions/workflows/main.yml/badge.svg?branch=master)
 
 > Convert arrays into objects.
 
