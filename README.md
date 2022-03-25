@@ -18,7 +18,7 @@ $ npm install from-pairs
 Or [unpkg](https://unpkg.com/from-pairs/)
 
 ```
-<script src="https://unpkg.com/from-pairs@1.0.2/umd/index.js" />
+<script src="https://unpkg.com/from-pairs@1.0.4/umd/index.js" />
 ```
 
 Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/LYVBdrJ).
